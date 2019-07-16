@@ -1,5 +1,5 @@
 # Optimizing_Coffee_Offers
-This is a Udacity project done on mock Starbucks data to find the most profitable offers to give each customer.
+This is a Udacity project done on simulated Starbucks data to find the most profitable offers to give each customer.
 ## Optimize Incremental Revenue
 I decided to look at this project in terms of what offer(s) I can give to a customer to maximize Starbucks' incremental revenue from that person.  If a customer already buys every coffee they ever drink from Starbucks, then there may be no room to grow there, and a promotion to them may be useless.  So, I compared spending while under the influence of a promotion against spending while not under the influence of a promotion.
 ## Python libraries used
